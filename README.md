@@ -11,7 +11,7 @@ This project provides a stylish and responsive custom 404 error page using HTML 
 ## Demo
 Here's how the custom 404 page looks:
 
-![Custom 404 Page](path_to_screenshot.png)
+![Custom 404 Page]([path_to_screenshot.png](https://github.com/TechyShreyansh/Custom-404-Page-Master/blob/main/Images/404.png))
 
 ## Installation
 
