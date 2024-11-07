@@ -47,8 +47,8 @@ Here's how the custom 404 page looks:
             <p>Hi, I think you are lost!</p>
             <p>
               Please click
-              <a href="https://liveblogger123.blogspot.com/">here</a> to go back to
-              the <a href="https://liveblogger123.blogspot.com/">Home Page</a>
+              <a href="https://appiemods.blogspot.com">here</a> to go back to
+              the <a href="https://appiemods.blogspot.com">Home Page</a>
             </p>
           </div>
         </div>
